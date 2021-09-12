@@ -1,11 +1,10 @@
 package TeamLeadAjay.TeamLeadAjay;
 
-import org.testng.annotations.Test;
-
 public class code2 {
-	@Test
-	public void hi()
-	{
-		System.out.println("kumar");
+
+	private void syso() {
+		// TODO Auto-generated method stub
+
+		System.out.println("kumar---");
 	}
 }
