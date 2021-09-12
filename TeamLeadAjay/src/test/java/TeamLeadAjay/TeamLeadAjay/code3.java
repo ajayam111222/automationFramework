@@ -1,10 +1,9 @@
 package TeamLeadAjay.TeamLeadAjay;
 
-public class code2 {
+public class code3 {
 
 	private void syso() {
 		// TODO Auto-generated method stub
 
-		System.out.println("kumar---");
 	}
 }

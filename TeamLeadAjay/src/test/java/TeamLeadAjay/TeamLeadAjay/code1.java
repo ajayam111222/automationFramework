@@ -7,6 +7,7 @@ public class code1 {
 	public void hi()
 	{
 		System.out.println("kumar");
+        System.out.println("kumar");
 	}
 
 }
