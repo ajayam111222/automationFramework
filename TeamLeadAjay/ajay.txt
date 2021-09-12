@@ -1,2 +1,6 @@
 ajay
+<<<<<<< HEAD
 vijay
+=======
+kumar
+>>>>>>> branch 'master' of https://github.com/ajayam111222/automationFramework.git
